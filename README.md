@@ -22,7 +22,6 @@ Program to implement the simple linear regression model for predicting the marks
 Developed by:Akkireddy Ruchitha Reddy
 RegisterNumber:212221230004 
 */
-```
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -49,10 +48,11 @@ plt.title("Hours vs scores (Testing set)")
 plt.xlabel("Hours")
 plt.ylabel("Scores")
 plt.show()
+```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
-
+![output](https://github.com/RuchithaReddy28/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/x1.PNG?raw=true)
+![output](https://github.com/RuchithaReddy28/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/x2.PNG?raw=true)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
